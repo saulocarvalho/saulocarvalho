@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, i'm Saulo Carvalho 👋
+- 🔭 I’m currently working on tech support
+- 🌱 I’m currently learning front-end
+- ⚡ Fun fact: i like to watch animes
 
 ##
 <div>

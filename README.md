@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning front-end
 - ⚡ Fun fact: I like to watch animes
 
+<p align="center"><img align="center" scr="https://profile-counter.glitch.me/{***saulocarvalho***}/count.svg"/><p>
+  
 ##
 <div>
   <a href="https://github.com/saulocarvalho">

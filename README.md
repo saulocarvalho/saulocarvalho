@@ -2,8 +2,6 @@
 - 🔭 I’m currently working on tech support
 - 🌱 I’m currently learning front-end
 - ⚡ Fun fact: I like to watch animes
-
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{saulocarvalho}/count.svg"/><p>
  
 ##
 <div>

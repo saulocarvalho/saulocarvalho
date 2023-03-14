@@ -1,7 +1,7 @@
 ### Hi, i'm Saulo Carvalho 👋
 - 🔭 I’m currently working on tech support
-- 🌱 I’m currently learning SQL and Database
-- ⚡ Fun fact: I like to watch animes
+- 🌱 I’m currently learning Python, SQL and Database
+
  
 ##
 <!--<div>

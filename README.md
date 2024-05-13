@@ -11,8 +11,12 @@
 </div>
 <div style="display: inline_block"><br>
 -->
+##
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saulocarvalho&theme=default)
 
-  ##
+
+
+##
   
   <div> 
   <a href = "mailto:saulodias60@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"_blank"></a>

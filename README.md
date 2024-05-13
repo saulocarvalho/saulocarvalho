@@ -12,7 +12,8 @@
 <div style="display: inline_block"><br>
 -->
 ##
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saulocarvalho&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saulocarvalho&theme=dark)
+
 
 
 

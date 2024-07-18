@@ -3,11 +3,10 @@
 - 🌱 I’m currently learning Python, SQL and Database
 
 
- <div>
+
 
   <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=97a4e2&center=true&width=410&height=45&lines=I+like+to+try+new+things">
- </div>
-<!-- ##
+ <!-- ##
 <div>
   <a href="https://github.com/saulocarvalho">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=saulocarvalho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -16,6 +15,7 @@
 <div style="display: inline_block"><br>
 -->
 ##
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saulocarvalho&theme=dark)
 
 

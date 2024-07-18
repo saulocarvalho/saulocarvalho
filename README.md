@@ -2,7 +2,11 @@
 - 🔭 I’m currently working on tech support
 - 🌱 I’m currently learning Python, SQL and Database
 
- 
+
+ <div>
+
+  <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=97a4e2&center=true&width=410&height=45&lines=I+like+to+try+new+things">
+ </div>
 <!-- ##
 <div>
   <a href="https://github.com/saulocarvalho">
@@ -23,7 +27,8 @@
   <a href = "mailto:saulodias60@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"_blank"></a>
   <a href="https://www.linkedin.com/in/saulo-carvalho-834980160/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
-  
+
+ 
   
   <!--
 **saulocarvalho/saulocarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
